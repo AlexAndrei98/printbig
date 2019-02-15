@@ -11,7 +11,6 @@ setup(
     # Needed for dependencies
     install_requires=['numpy','re','pickle','string'],
     # *strongly* suggested for sharing
-    version='0.5',
     license='MIT',
     description='An example of a python package from pre-existing code',
     # We will also need a readme eventually (there will be a warning)
