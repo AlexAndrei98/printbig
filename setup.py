@@ -2,13 +2,10 @@ from setuptools import setup
 
 setup(
     # Needed to silence warnings
-    name='print_big',
+    name='alexUtil',
     url='',
     author='Alex Andrei',
-    author_email='alexandrei1998@hotmail.it',
-    # Needed to actually package something
-    packages=['printBig'],
-    # Needed for dependencies
+    author_email='alexandrei1998@hotmail.it',    # Needed for dependencies
     install_requires=['numpy','re','pickle','string'],
     # *strongly* suggested for sharing
     license='MIT',
