@@ -6,7 +6,7 @@ setup(
     url='https://github.com/AlexAndrei98/testpackage',
     author='Alex Andrei',
     author_email='alexandrei1998@hotmail.it',    # Needed for dependencies
-    install_requires=['numpy','re','pickle','string'],
+    install_requires=['numpy'],
     # *strongly* suggested for sharing
     license='MIT',
     description='An example of my python package',
