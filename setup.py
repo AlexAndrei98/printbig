@@ -7,6 +7,7 @@ setup(
     author='Alex Andrei',
     author_email='alexandrei1998@hotmail.it',    # Needed for dependencies
     install_requires=['numpy'],
+    version = "0.0.1",
     # *strongly* suggested for sharing
     license='MIT',
     description='An example of my python package',
